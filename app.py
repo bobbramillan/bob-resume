@@ -12,7 +12,7 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | John Doe"
+PAGE_TITLE = "Digital CV | Bob Bramillan"
 PAGE_ICON = ":wave:"
 NAME = "Bob (Bavanan) Bramillan"
 DESCRIPTION = """
