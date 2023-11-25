@@ -16,9 +16,9 @@ PAGE_TITLE = "Digital CV | John Doe"
 PAGE_ICON = ":wave:"
 NAME = "Bob (Bavanan) Bramillan"
 DESCRIPTION = """
-ECE Junior @ Drexel University.
+ECE Sophomore @ Drexel University.
 """
-EMAIL = "johndoe@email.com"
+EMAIL = "bob.bramillan@gmail.com"
 SOCIAL_MEDIA = {
     #"YouTube": "https://youtube.com/c/codingisfun",
     "LinkedIn": "https://linkedin.com",
