@@ -55,8 +55,8 @@ with col2:
     label=" 📄 Download Resume",
     data=PDFbyte,
     file_name=resume_file.name,  # Accessing the name attribute of the Path object
-    mime="application/octet-stream",
-)
+    mime="application/octet-stream"
+    )
     st.write("📫", EMAIL)
 
 
