@@ -52,10 +52,11 @@ with col2:
     st.title(NAME)
     st.write(DESCRIPTION)
     st.download_button(
-        label=" 📄 Download Resume",
-        data=PDFbyte,
-        file_name=resume_file.name,
-        mime="application/octet-stream",
+    label=" 📄 Download Resume",
+    data=PDFbyte,
+    file_name=resume_file.name,  # Accessing the name attribute of the Path object
+    mime="application/octet-stream",
+)
     )
     st.write("📫", EMAIL)
 
@@ -86,9 +87,8 @@ st.subheader("Hard Skills")
 st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, VBA
-- 📊 Data Visulization: PowerBi, MS Excel, Plotly
+- 📊 Data Visulization: Streamlit, MS Excel, Plotly
 - 📚 Modeling: Logistic regression, linear regression, decition trees
-- 🗄️ Databases: Postgres, MongoDB, MySQL
 """
 )
 
@@ -99,19 +99,8 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-# st.write("🚧", "**Senior Data Analyst | Ross Industries**")
-# st.write("02/2020 - Present")
-# st.write(
-#     """
-# - ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
-# - ► Led a team of 4 analysts to brainstorm potential marketing and sales improvements, and implemented A/B tests to generate 15% more client leads
-# - ► Redesigned data model through iterations that improved predictions by 12%
-# """
-# )
-
-# --- JOB 2
 st.write('\n')
-st.write("🚧", "**Manager | 7-Eleven**")
+st.write("🚧", "**Associate | 7-Eleven**")
 st.write("01/2021 - 12/2023")
 st.write(
     """
