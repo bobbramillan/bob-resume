@@ -21,7 +21,7 @@ ECE Sophomore @ Drexel University.
 EMAIL = "bob.bramillan@gmail.com"
 SOCIAL_MEDIA = {
     #"YouTube": "https://youtube.com/c/codingisfun",
-    "LinkedIn": "https://linkedin.com",
+    "LinkedIn": "www.linkedin.com/in/bavananb",
     "GitHub": "https://github.com/bobbramillan",
     #"Twitter": "https://twitter.com",
 }
@@ -121,17 +121,7 @@ st.write(
 """
 )
 
-# --- JOB 3
-# st.write('\n')
-# st.write("🚧", "**Data Analyst | Chegg**")
-# st.write("04/2015 - 01/2018")
-# st.write(
-#     """
-# - ► Devised KPIs using SQL across company website in collaboration with cross-functional teams to achieve a 120% jump in organic traﬃc
-# - ► Analyzed, documented, and reported user survey results to improve customer communication processes by 18%
-# - ► Collaborated with analyst team to oversee end-to-end process surrounding customers' return data
-# """
-# )
+
 
 
 # --- Projects & Accomplishments ---
