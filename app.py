@@ -57,7 +57,6 @@ with col2:
     file_name=resume_file.name,  # Accessing the name attribute of the Path object
     mime="application/octet-stream",
 )
-    )
     st.write("📫", EMAIL)
 
 
