@@ -26,7 +26,7 @@ SOCIAL_MEDIA = {
     #"Twitter": "https://twitter.com",
 }
 PROJECTS = {
-    "🏆 Database Query Dashboard Using Python/Streamlit ": "https://youtu.be/Sb0A9i6d320",
+    "🏆 Personal Website temporarily hosted on GitPages with HTML, CSS, JS": "https://youtu.be/Sb0A9i6d320",
     "🏆 Income and Expense Tracker - Web app with NoSQL database": "https://youtu.be/3egaMfE9388",
     "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
 }
@@ -102,8 +102,6 @@ st.write(
 - ► Inventory management, balanced cash drawers and tracked lottery sales of evening shift
 """
 )
-
-
 
 
 # --- Projects & Accomplishments ---
