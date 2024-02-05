@@ -26,9 +26,9 @@ SOCIAL_MEDIA = {
     #"Twitter": "https://twitter.com",
 }
 PROJECTS = {
-    "🏆 Personal Website temporarily hosted on GitPages with HTML, CSS, JS": ,
-    "🏆 Income and Expense Tracker - Web app with NoSQL database": ,
-    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": ,
+    "🏆 Personal Website temporarily hosted on GitPages with HTML, CSS, JS" ,
+    "🏆 Income and Expense Tracker - Web app with NoSQL database" ,
+    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar" ,
 }
 
 
